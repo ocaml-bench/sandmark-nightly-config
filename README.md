@@ -15,12 +15,12 @@ A sample JSON file is shown below:
 [
   {
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
-    "name": "5.00+trunk+parallel",
+    "name": "5.00+trunk",
     "expiry": "2100-01-01"
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/b73cbbea4bc40ffd26a459d594a39b99cec4273d.zip",
-    "name": "5.00+stable+parallel",
+    "name": "5.00+stable+b73cbb",
     "expiry": "2100-01-01"
   },
   {
