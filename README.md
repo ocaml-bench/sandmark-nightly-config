@@ -5,7 +5,8 @@ The `sandmark-nightly-config` repository consists of the custom
 configuration files used to run
 [sandmark-nightly](https://github.com/ocaml-bench/sandmark-nightly/)
 scripts. The custom JSON files are present in the `config/` folder,
-one per machine.
+one per machine. Both the `sequential` and `parallel` Sandmark
+benchmarks are built and executed, by default, for each entry.
 
 ## Example
 
@@ -41,13 +42,9 @@ variant build:
 | url  | Yes       | Specify trunk or commit or branch URL | * https://github.com/ocaml/ocaml/archive/trunk.tar.gz <br /> * https://github.com/ocaml/ocaml/archive/b73cbbea4bc40ffd26a459d594a39b99cec4273d.zip <br /> * https://github.com/sadiqj/ocaml/archive/refs/heads/eventring-pr.zip |
 | name | Yes | An OCaml variant name with developer name, branch or PR | * `5.0.0+trunk+sequential` <br /> * `5.0.0+trunk+sadiqj+pr10964` <br /> * `5.0.0+trunk+parallel` |
 | expiry | Yes | A date (YYYY-MM-DD) until which the nightly runs should be executed | 2022-02-25 |
-| tag  | No       | The [TAG](https://github.com/ocaml-bench/sandmark/blob/main/README.md#tags) entry from Sandmark | * `run_in_ci` <br /> * `macro_bench` <br /> * `1s_10s` <br /> * `10s_100s` <br /> * `gt_100s`|
-| config_json | No | The run [configuration](https://github.com/ocaml-bench/sandmark/blob/main/README.md#config-files) *.json file from Sandmark | * `run_config.json` <br /> * `multicore_parallel_run_config.json` <br /> * `multicore_parallel_navajo_run_config.json` |
 | configure | No | `configure` options used when building the compiler | * "-q" |
 | runparams | No | runtime parameters used when building the compiler | * "v=0x400" |
 | environment | No | Environment variables passed when running the benchmarks | "OCAMLRUNPARAM='s=2M'"
-| override_packages | No | Override Sandmark dependency package version in runtime | "fmt.0.9.0 ocamlfind.1.9.3 checkseum.0.3.0" |
-| remove_packages | No | Remove Sandmark dependency package versions in runtime | "integers ppx_derivers ppx_deriving ppx_deriving_yojson" |
 
 ## UI
 
