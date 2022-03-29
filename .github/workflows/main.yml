@@ -1,0 +1,18 @@
+name: Parser Check
+
+on:
+  pull_request:
+    branches: [ main ]
+    
+jobs:
+  check-config-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Jq parse
+        run: make check_jq
+        
+      - name: URL Validity
+        run: make check_url
