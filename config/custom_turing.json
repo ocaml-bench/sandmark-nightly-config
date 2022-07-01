@@ -3,5 +3,10 @@
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.00+trunk",
     "expiry": "2100-01-01"
+  },
+  {
+    "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/decouple_major_and_minor2.tar.gz",
+    "name": "5.1.0+trunk+decouple_major_and_minor2",
+    "expiry": "2022-07-03"
   }
 ]
