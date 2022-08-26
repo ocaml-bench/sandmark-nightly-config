@@ -13,5 +13,15 @@
     "url": "https://github.com/stedolan/ocaml/archive/refs/heads/spill-permanently.zip",
     "name": "5.1.0+trunk+stedolan+pr11102",
     "expiry": "2022-07-26"
+  },
+  {
+    "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11307/head.zip",
+    "name": "5.1.0+trunk+gadmm+pr11307",
+    "expiry": "2022-09-25"
+  },
+  {
+    "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11506/head.zip",
+    "name": "5.1.0+trunk+gadmm+pr11506",
+    "expiry": "2022-09-25"
   }
 ]
