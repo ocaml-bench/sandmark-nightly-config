@@ -49,3 +49,20 @@ variant build:
 ## UI
 
 The nightly results can be viewed at https://sandmark.ocamllabs.io.
+
+## Platform-specific instructions
+
+The `turing` configuration runs on an Intel Xeon scalable processor
+based on Skylake. It is recommended to apply the workaround to the JCC
+erratum microcode update
+(https://www.intel.com/content/dam/support/us/en/documents/processors/mitigations-jump-conditional-code-erratum.pdf).
+
+To do so, add a line
+```
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
+```
+(for gcc) or
+```
+    "configure": "CC='clang -mbranches-within-32B-boundaries' AS='as -mbranches-within-32B'",
+```
+(for clang) to the configuration.

@@ -2,26 +2,31 @@
   {
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.1.0+trunk",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2100-01-01"
   },
   {
     "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/decouple_major_and_minor2.tar.gz",
     "name": "5.1.0+trunk+decouple_major_and_minor2",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2022-07-10"
   },
   {
     "url": "https://github.com/stedolan/ocaml/archive/refs/heads/spill-permanently.zip",
     "name": "5.1.0+trunk+stedolan+pr11102",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2022-07-26"
   },
   {
     "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11307/head.zip",
     "name": "5.1.0+trunk+gadmm+pr11307",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2022-09-25"
   },
   {
     "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11506/head.zip",
     "name": "5.1.0+trunk+gadmm+pr11506",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2022-09-25"
   }
 ]
