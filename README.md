@@ -8,9 +8,21 @@ scripts. The custom JSON files are present in the `config/` folder,
 one per machine. Both the `sequential` and `parallel` Sandmark
 benchmarks are built and executed, by default, for each entry.
 
-## Example
+## Adding your compiler branch to the nightly runs
 
-A sample JSON file is shown below:
+The `config` folder includes two JSON files, `custom_navajo.json` and
+`custom_turing.json`, for running the benchmarks on the Navajo and
+Turing servers respectively. You can create a PR for these two files
+with your compiler development branch for the nightly runs. The
+following three URLs are supported:
+
+1. `Branch`: A compiler development branch whose changes need to be compared nightly.
+
+2. `Commit`: A specific SHA1 commit on which the benchmarks should be executed.
+
+3. `Pull Request`: An open pull request to check for performance regressions.
+
+A sample custom JSON file illustrating the above three URLs is given below:
 
 ```json
 [
