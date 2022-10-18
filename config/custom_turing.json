@@ -6,6 +6,18 @@
     "expiry": "2100-01-01"
   },
   {
+    "url": "https://github.com/ocaml/ocaml/archive/4.14.tar.gz",
+    "name": "4.14+trunk+nnp",
+    "expiry": "2100-01-01",
+    "configure": "--disable-naked-pointers"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml/archive/4.14.tar.gz",
+    "name": "4.14+trunk+nnp+flambda",
+    "expiry": "2100-01-01",
+    "configure": "--disable-naked-pointers --enable-flambda"
+  },
+  {
     "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/decouple_major_and_minor2.tar.gz",
     "name": "5.1.0+trunk+decouple_major_and_minor2",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
