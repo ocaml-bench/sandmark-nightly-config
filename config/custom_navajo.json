@@ -23,5 +23,20 @@
     "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11506/head.zip",
     "name": "5.1.0+trunk+gadmm+pr11506",
     "expiry": "2022-09-25"
+  },
+  {
+    "url": "https://github.com/fabbing/ocaml/archive/7412593a42f0e6a8c274c0cb7bf22a4c3646abd0.zip",
+    "name": "5.1.0+trunk+comparison_point_for_prefetching",
+    "expiry": "2022-10-20"
+  },
+  {
+    "url": "https://github.com/fabbing/ocaml/archive/refs/heads/prefetching.zip",
+    "name": "5.1.0+trunk+fabbing+base_prefetching",
+    "expiry": "2022-12-31"
+  },
+  {
+    "url": "https://github.com/fabbing/ocaml/archive/refs/heads/prefetching_in_markstack.zip",
+    "name": "5.1.0+trunk+fabbing+prefetching_in_mark_stack",
+    "expiry": "2022-12-31"
   }
 ]
