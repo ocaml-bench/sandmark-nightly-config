@@ -18,6 +18,12 @@
     "expiry": "2022-07-26"
   },
   {
+    "url": "https://github.com/stedolan/ocaml/archive/refs/heads/linscan-entry.zip",
+    "name": "5.1.0+trunk+stedolan+pr11103",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
+    "expiry": "2022-11-02"
+  },
+  {
     "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11307/head.zip",
     "name": "5.1.0+trunk+gadmm+pr11307",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
