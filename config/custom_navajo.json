@@ -5,34 +5,14 @@
     "expiry": "2100-01-01"
   },
   {
-    "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/decouple_major_and_minor2.tar.gz",
-    "name": "5.1.0+trunk+decouple_major_and_minor2",
-    "expiry": "2022-07-10"
-  },
-  {
-    "url": "https://github.com/stedolan/ocaml/archive/refs/heads/spill-permanently.zip",
-    "name": "5.1.0+trunk+stedolan+pr11102",
-    "expiry": "2022-07-26"
-  },
-  {
     "url": "https://github.com/stedolan/ocaml/archive/refs/heads/linscan-entry.zip",
     "name": "5.1.0+trunk+stedolan+pr11103",
-    "expiry": "2022-11-02"
-  },
-  {
-    "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11307/head.zip",
-    "name": "5.1.0+trunk+gadmm+pr11307",
-    "expiry": "2022-09-25"
-  },
-  {
-    "url": "https://www.github.com/ocaml/ocaml/archive/refs/pull/11506/head.zip",
-    "name": "5.1.0+trunk+gadmm+pr11506",
-    "expiry": "2022-09-25"
+    "expiry": "2022-11-15"
   },
   {
     "url": "https://github.com/fabbing/ocaml/archive/7412593a42f0e6a8c274c0cb7bf22a4c3646abd0.zip",
     "name": "5.1.0+trunk+comparison_point_for_prefetching",
-    "expiry": "2022-10-20"
+    "expiry": "2022-11-15"
   },
   {
     "url": "https://github.com/fabbing/ocaml/archive/refs/heads/prefetching.zip",
