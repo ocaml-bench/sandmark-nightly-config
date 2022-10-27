@@ -5,6 +5,11 @@
     "expiry": "2100-01-01"
   },
   {
+    "url": "https://github.com/stedolan/ocaml/archive/refs/heads/linscan-entry.zip",
+    "name": "5.1.0+trunk+stedolan+pr11103",
+    "expiry": "2022-11-15"
+  },
+  {
     "url": "https://github.com/fabbing/ocaml/archive/7412593a42f0e6a8c274c0cb7bf22a4c3646abd0.zip",
     "name": "5.1.0+trunk+comparison_point_for_prefetching",
     "expiry": "2022-11-15"
