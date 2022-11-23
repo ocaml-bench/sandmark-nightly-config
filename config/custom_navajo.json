@@ -5,6 +5,11 @@
     "expiry": "2100-01-01"
   },
   {
+    "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/decouple_major_and_minor3.tar.gz",
+    "name": "5.1.0+trunk+decouple_gcs",
+    "expiry": "2022-12-01"
+  },
+  {
     "url": "https://github.com/fabbing/ocaml/archive/7412593a42f0e6a8c274c0cb7bf22a4c3646abd0.zip",
     "name": "5.1.0+trunk+comparison_point_for_prefetching",
     "expiry": "2022-11-15"
