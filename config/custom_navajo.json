@@ -12,11 +12,11 @@
   {
     "url": "https://github.com/fabbing/ocaml/archive/97aa649e3c26e5f9ba2e3e5fc88115bc60afa5f9.zip",
     "name": "5.1.0+trunk+comparison_point_for_prefetching",
-    "expiry": "2023-01-31"
+    "expiry": "2023-01-01"
   },
   {
     "url": "https://github.com/fabbing/ocaml/archive/refs/heads/prefetching_like_414.zip",
     "name": "5.1.0+trunk+fabbing+prefetching_like_414",
-    "expiry": "2023-01-31"
+    "expiry": "2023-01-01"
   }
 ]
