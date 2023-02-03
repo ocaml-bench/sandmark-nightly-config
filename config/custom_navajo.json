@@ -18,5 +18,15 @@
     "url": "https://github.com/fabbing/ocaml/archive/refs/heads/prefetching_like_414.zip",
     "name": "5.1.0+trunk+fabbing+prefetching_like_414",
     "expiry": "2023-01-01"
+  },
+  {
+    "url": "https://github.com/sadiqj/ocaml/archive/pool_release_cycle_5.0.zip",
+    "name": "5.0.0+trunk+sadiqj+pool_release_cycle",
+    "expiry": "2023-03-01"
+  },
+  {
+    "url": "https://github.com/sadiqj/ocaml/archive/pool_release_5.0.zip",
+    "name": "5.0.0+trunk+sadiqj+pool_release",
+    "expiry": "2023-03-01"
   }
 ]
