@@ -21,12 +21,12 @@
   },
   {
     "url": "https://github.com/sadiqj/ocaml/archive/pool_release_cycle_5.0.zip",
-    "name": "5.0.0+trunk+sadiqj+pool_release_cycle",
-    "expiry": "2023-03-01"
+    "name": "5.0.1+trunk+sadiqj+pool_release_cycle",
+    "expiry": "2023-02-10"
   },
   {
     "url": "https://github.com/sadiqj/ocaml/archive/pool_release_5.0.zip",
-    "name": "5.0.0+trunk+sadiqj+pool_release",
-    "expiry": "2023-03-01"
+    "name": "5.0.1+trunk+sadiqj+pool_release",
+    "expiry": "2023-02-10"
   }
 ]
