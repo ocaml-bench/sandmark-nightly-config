@@ -16,3 +16,6 @@ jobs:
         
       - name: URL Validity
         run: make check_url
+
+      - name: Variant name validity
+        run: make check_variant_name
