@@ -48,3 +48,6 @@ check_url:
 		fi; 									\
 	    done;                                        				\
 	};
+
+check_variant_name:
+	./scripts/check-variant-name.sh
