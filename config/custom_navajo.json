@@ -3,30 +3,5 @@
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.2.0+trunk",
     "expiry": "2100-01-01"
-  },
-  {
-    "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/decouple_major_and_minor3.tar.gz",
-    "name": "5.1.0+trunk+decouple_gcs",
-    "expiry": "2022-12-01"
-  },
-  {
-    "url": "https://github.com/fabbing/ocaml/archive/97aa649e3c26e5f9ba2e3e5fc88115bc60afa5f9.zip",
-    "name": "5.1.0+trunk+comparison_point_for_prefetching",
-    "expiry": "2023-01-01"
-  },
-  {
-    "url": "https://github.com/fabbing/ocaml/archive/refs/heads/prefetching_like_414.zip",
-    "name": "5.1.0+trunk+fabbing+prefetching_like_414",
-    "expiry": "2023-01-01"
-  },
-  {
-    "url": "https://github.com/sadiqj/ocaml/archive/pool_release_cycle_5.0.zip",
-    "name": "5.0.1+trunk+sadiqj+pool_release_cycle",
-    "expiry": "2023-02-10"
-  },
-  {
-    "url": "https://github.com/sadiqj/ocaml/archive/pool_release_5.0.zip",
-    "name": "5.0.1+trunk+sadiqj+pool_release",
-    "expiry": "2023-02-10"
   }
 ]
