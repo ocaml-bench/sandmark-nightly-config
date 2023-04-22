@@ -3,5 +3,10 @@
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.2.0+trunk",
     "expiry": "2100-01-01"
+  },
+  {
+    "url": "https://github.com/damiendoligez/ocaml/archive/refs/heads/fix-idle-domain-gc.tar.gz",
+    "name": "5.2.0+trunk+fix-idle-gc",
+    "expiry": "2023-05-01"
   }
 ]
