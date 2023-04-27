@@ -8,5 +8,11 @@
     "url": "https://github.com/damiendoligez/ocaml/archive/refs/heads/fix-idle-domain-gc.tar.gz",
     "name": "5.2.0+trunk+fix-idle-gc",
     "expiry": "2023-05-01"
+  },
+  {
+    "url": "https://github.com/ocaml-multicore/ocaml-tsan/archive/refs/heads/tsan_patch.zip",
+    "name": "5.2.0+trunk+tsan",
+    "expiry": "2023-05-31",
+    "configure": "--enable-tsan"
   }
 ]
