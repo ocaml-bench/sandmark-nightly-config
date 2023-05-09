@@ -14,5 +14,10 @@
     "name": "5.2.0+trunk+tsan",
     "expiry": "2023-05-31",
     "configure": "--enable-tsan"
+  },
+  {
+    "url": "https://github.com/bartoszmodelski/ocaml/archive/refs/heads/aligned-alloc.tar.gz",
+    "name": "5.2.0+trunk+bartoszmodelski+pr12212",
+    "expiry": "2023-05-30"
   }
 ]
