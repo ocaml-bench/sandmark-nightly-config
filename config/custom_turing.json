@@ -9,7 +9,7 @@
     "url": "https://github.com/damiendoligez/ocaml/archive/refs/heads/fix-idle-domain-gc.tar.gz",
     "name": "5.2.0+trunk+fix-idle-gc",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-05-01"
+    "expiry": "2023-05-25"
   },
   {
     "url": "https://github.com/bartoszmodelski/ocaml/archive/refs/heads/aligned-alloc.tar.gz",
