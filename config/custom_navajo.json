@@ -24,5 +24,15 @@
     "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.tar.gz",
     "name": "5.2.0+trunk+eutro+barriers",
     "expiry": "2023-09-30"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml/archive/refs/tags/5.0.0.tar.gz",
+    "name": "5.0.0+release",
+    "expiry": "2023-09-15"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml/archive/refs/tags/5.1.0.tar.gz",
+    "name": "5.1.0+release",
+    "expiry": "2023-09-15"
   }
 ]
