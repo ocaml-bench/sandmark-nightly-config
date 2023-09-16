@@ -25,14 +25,14 @@
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/5.0.0.tar.gz",
-    "name": "5.0.0+release",
+    "name": "5.0.0+stable+release",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-09-15"
+    "expiry": "2023-09-16"
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/5.1.0.tar.gz",
-    "name": "5.1.0+release",
+    "name": "5.1.0+stable+release",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-09-15"
+    "expiry": "2023-09-16"
   }
 ]
