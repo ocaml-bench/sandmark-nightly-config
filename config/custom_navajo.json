@@ -27,12 +27,12 @@
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/refs/heads/5.0.tar.gz",
-    "name": "5.0.0+stable+release",
+    "name": "5.0.1+stable+release",
     "expiry": "2023-09-29"
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/refs/heads/5.1.tar.gz",
-    "name": "5.1.0+stable+release",
+    "name": "5.1.1+stable+release",
     "expiry": "2023-09-29"
   }
 ]
