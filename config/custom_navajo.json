@@ -3,36 +3,5 @@
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.2.0+trunk",
     "expiry": "2100-01-01"
-  },
-  {
-    "url": "https://github.com/damiendoligez/ocaml/archive/refs/heads/fix-idle-domain-gc.tar.gz",
-    "name": "5.2.0+trunk+fix-idle-gc",
-    "expiry": "2023-05-25"
-  },
-  {
-    "url": "https://github.com/ocaml-multicore/ocaml-tsan/archive/refs/heads/tsan_patch.zip",
-    "name": "5.2.0+trunk+tsan",
-    "expiry": "2023-05-31",
-    "configure": "--enable-tsan"
-  },
-  {
-    "url": "https://github.com/bartoszmodelski/ocaml/archive/refs/heads/aligned-alloc.tar.gz",
-    "name": "5.2.0+trunk+bartoszmodelski+pr12212",
-    "expiry": "2023-05-30"
-  },
-  {
-    "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.tar.gz",
-    "name": "5.2.0+trunk+eutro+barriers",
-    "expiry": "2023-09-30"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/refs/heads/5.0.tar.gz",
-    "name": "5.0.1+trunk+release",
-    "expiry": "2023-09-29"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/refs/heads/5.1.tar.gz",
-    "name": "5.1.1+trunk+release",
-    "expiry": "2023-09-29"
   }
 ]
