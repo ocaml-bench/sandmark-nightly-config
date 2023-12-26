@@ -1,7 +1,7 @@
 [
   {
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
-    "name": "5.2.0+trunk",
+    "name": "5.3.0+trunk",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2100-01-01"
   }
