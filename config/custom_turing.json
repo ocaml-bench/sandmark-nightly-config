@@ -4,35 +4,5 @@
     "name": "5.2.0+trunk",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2100-01-01"
-  },
-  {
-    "url": "https://github.com/damiendoligez/ocaml/archive/refs/heads/fix-idle-domain-gc.tar.gz",
-    "name": "5.2.0+trunk+fix-idle-gc",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-05-25"
-  },
-  {
-    "url": "https://github.com/bartoszmodelski/ocaml/archive/refs/heads/aligned-alloc.tar.gz",
-    "name": "5.2.0+trunk+bartoszmodelski+pr12212",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-05-30"
-  },
-  {
-    "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.tar.gz",
-    "name": "5.2.0+trunk+eutro+barriers",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-09-30"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/5.0.0.tar.gz",
-    "name": "5.0.0+stable+release",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-09-16"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/5.1.0.tar.gz",
-    "name": "5.1.0+stable+release",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2023-09-16"
   }
 ]
