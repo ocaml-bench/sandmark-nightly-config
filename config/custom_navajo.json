@@ -3,5 +3,10 @@
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.3.0+trunk",
     "expiry": "2100-01-01"
+  },
+  {
+    "url": "https://github.com/Johan511/ocaml/archive/refs/tags/sandmark.tar.gz",
+    "name": "gc-alloc-race-fix",
+    "expiry": "2100-01-01"
   }
 ]
