@@ -10,5 +10,11 @@
     "name": "5.3.0+trunk+gc-alloc-race-fix",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2024-01-17"
+  },
+  {
+    "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.zip",
+    "name": "5.3.0+trunk+eutro+barriers",
+    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
+    "expiry": "2024-03-19"
   }
 ]
