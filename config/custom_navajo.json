@@ -8,5 +8,10 @@
     "url": "https://github.com/johan511/ocaml/archive/refs/heads/oldify_races.zip",
     "name": "5.3.0+trunk+gc-alloc-race-fix",
     "expiry": "2024-01-17"
+  },
+  {
+    "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.zip",
+    "name": "5.3.0+trunk+eutro+barriers",
+    "expiry": "2024-03-19"
   }
 ]
