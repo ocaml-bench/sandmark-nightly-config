@@ -22,5 +22,21 @@
     "name": "5.3.0+trunk+eutro+barriers",
     "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
     "expiry": "2024-03-19"
-  }
+  },
+  {
+    "url": "https://github.com/sadiqj/ocaml/archive/refs/heads/larger_pools.zip",
+    "name": "5.3.0+trunk+larger_pools",
+    "expiry": "2024-03-19"
+  },
+  {
+    "url": "https://github.com/sadiqj/ocaml/archive/refs/heads/batch_pool_alloc.zip",
+    "name": "5.3.0+trunk+batch_pool_alloc",
+    "expiry": "2024-03-19"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
+    "name": "5.3.0+trunk+vanilla",
+    "configure": "",
+    "expiry": "2100-01-01"
+  }  
 ]
