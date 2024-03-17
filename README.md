@@ -12,9 +12,10 @@ benchmarks are built and executed, by default, for each entry.
 
 The `config` folder includes two JSON files, `custom_navajo.json` and
 `custom_turing.json`, for running the benchmarks on the Navajo and
-Turing servers respectively. You are encouraged to create a PR for
-your compiler development branch to be executed nightly on both the
-server machines. The following three URLs are supported:
+Turing servers respectively (see [sandmark.ocamllabs.io for more details about these machines](https://sandmark.ocamllabs.io/#machines-used-for-generating-results)).
+You are encouraged to create a PR for your compiler development branch
+to be executed nightly on both the server machines. The following three
+URLs are supported:
 
 1. `Branch`: A compiler development branch whose changes need to be compared nightly.
 
