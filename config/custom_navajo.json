@@ -18,5 +18,16 @@
     "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.zip",
     "name": "5.3.0+trunk+eutro+barriers",
     "expiry": "2024-03-19"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml/archive/5.1.1.tar.gz",
+    "name": "5.1.1+trunk",
+    "expiry": "2024-03-25"
+  },
+  {
+    "url": "https://github.com/ocaml/ocaml/archive/5.1.1.tar.gz",
+    "name": "5.1.1+trunk+fp",
+    "expiry": "2024-03-25",
+    "configure": "--enable-frame-pointers"
   }
 ]
