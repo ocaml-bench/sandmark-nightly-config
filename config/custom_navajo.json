@@ -21,12 +21,13 @@
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/5.1.1.tar.gz",
-    "name": "5.1.1",
-    "expiry": "2100-01-01"
+    "name": "5.1.1+trunk",
+    "expiry": "2024-03-25"
   },
   {
     "url": "https://github.com/ocaml/ocaml/archive/5.1.1.tar.gz",
-    "name": "5.1.1+fp",
-    "expiry": "2100-01-01"
-  },
+    "name": "5.1.1+trunk+fp",
+    "expiry": "2024-03-25",
+    "configure": "--enable-frame-pointers"
+  }
 ]
