@@ -60,7 +60,7 @@ variant build:
 
 ## UI
 
-The nightly results can be viewed at https://sandmark.ocamllabs.io.
+The nightly results can be viewed at https://sandmark.tarides.com
 
 ## Platform-specific instructions
 
