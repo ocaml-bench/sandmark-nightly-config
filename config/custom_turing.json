@@ -6,60 +6,13 @@
     "expiry": "2100-01-01"
   },
   {
-    "url": "https://github.com/ocaml/ocaml/archive/refs/heads/5.0.zip",
-    "name": "5.0.1+trunk",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2024-02-10"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/refs/heads/5.2.zip",
-    "name": "5.2.0+trunk",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2024-02-10"
-  },
-  {
-    "url": "https://github.com/eutro/ocaml/archive/refs/heads/tsdnr-barriers.zip",
-    "name": "5.3.0+trunk+eutro+barriers",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2024-03-19"
-  },
-  {
-    "url": "https://github.com/sadiqj/ocaml/archive/refs/heads/larger_pools.zip",
-    "name": "5.3.0+trunk+larger_pools",
-    "expiry": "2024-03-19"
-  },
-  {
-    "url": "https://github.com/sadiqj/ocaml/archive/refs/heads/batch_pool_alloc.zip",
-    "name": "5.3.0+trunk+batch_pool_alloc",
-    "expiry": "2024-03-19"
-  },
-  {
     "url": "https://github.com/ocaml/ocaml/archive/trunk.tar.gz",
     "name": "5.3.0+trunk+vanilla",
-    "configure": "",
     "expiry": "2100-01-01"
   },
   {
-    "url": "https://github.com/ocaml/ocaml/archive/5.1.1.tar.gz",
-    "name": "5.1.1+trunk",
-    "expiry": "2024-03-25"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/5.1.1.tar.gz",
-    "name": "5.1.1+trunk+fp",
-    "expiry": "2024-03-25",
-    "configure": "--enable-frame-pointers"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/refs/pull/12410/head.zip",
-    "name": "5.3.0+trunk+gadmm+pr12410",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2024-04-12"
-  },
-  {
-    "url": "https://github.com/ocaml/ocaml/archive/18c4510e6c8693c1feffb4871f429987a1d714ff.zip",
-    "name": "5.3.0+trunk+gadmm+pre-pr12410",
-    "configure": "CC='gcc -Wa,-mbranches-within-32B' AS='as -mbranches-within-32B'",
-    "expiry": "2024-04-12"
+    "url": "https://github.com/kayceesrk/ocaml/archive/refs/heads/max_domains_ocamlrunparam.zip",
+    "name": "5.3.0+trunk+PR13272",
+    "expiry": "2024-07-10"
   }
 ]
